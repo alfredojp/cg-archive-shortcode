@@ -1,0 +1,436 @@
+# Copyright (C) 2022 Capgemini GIT
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Capgemini Archive Shortcode 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cg-archive-shortcode\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-12T15:14:48+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: cg-archive-shortcode\n"
+
+#. Plugin Name of the plugin
+msgid "Capgemini Archive Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/wpcomvip/capgemini"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add settings to archive pages"
+msgstr ""
+
+#. Author of the plugin
+msgid "Capgemini GIT"
+msgstr ""
+
+#: src/ArchiveShortcode.php:360
+msgid "Directions"
+msgstr "Wegbeschreibung"
+
+#: src/ArchiveShortcode.php:404
+#: src/ArchiveShortcode.php:448
+msgid "See on map"
+msgstr "Auf der Karte ansehen"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:30
+#: src/factory-templates/AnalystShortcodeTemplate.php:62
+msgid "Analyst Report library"
+msgstr "Analysten-Reports"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:63
+#: src/factory-templates/BlogShortcodeTemplate.php:58
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:58
+#: src/factory-templates/EventShortcodeTemplate.php:65
+#: src/factory-templates/PrShortcodeTemplate.php:52
+#: src/factory-templates/RniShortcodeTemplate.php:62
+msgid "Type to search…"
+msgstr "Suchbegriffe eingeben..."
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:64
+#: src/factory-templates/AnalystShortcodeTemplate.php:85
+#: src/factory-templates/BlogShortcodeTemplate.php:59
+#: src/factory-templates/BlogShortcodeTemplate.php:77
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:59
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:77
+#: src/factory-templates/EventShortcodeTemplate.php:66
+#: src/factory-templates/PrShortcodeTemplate.php:53
+#: src/factory-templates/PrShortcodeTemplate.php:67
+#: src/factory-templates/RniShortcodeTemplate.php:63
+#: src/factory-templates/RniShortcodeTemplate.php:81
+msgid "Search"
+msgstr "Suche"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:65
+#: src/factory-templates/BlogShortcodeTemplate.php:60
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:60
+#: src/factory-templates/PrShortcodeTemplate.php:54
+#: src/factory-templates/RniShortcodeTemplate.php:64
+#: src/factory-templates/TestimonialShortcodeTemplate.php:52
+msgid "Filters"
+msgstr "Filter"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:66
+#: src/factory-templates/BlogShortcodeTemplate.php:61
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:61
+#: src/factory-templates/PrShortcodeTemplate.php:55
+#: src/factory-templates/RniShortcodeTemplate.php:65
+#: src/factory-templates/TestimonialShortcodeTemplate.php:53
+msgid "Filter results"
+msgstr "Ergebnisse"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:67
+#: src/factory-templates/AnalystShortcodeTemplate.php:68
+msgid "Analyst"
+msgstr "Analyst"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:70
+#: src/factory-templates/AnalystShortcodeTemplate.php:71
+#: src/factory-templates/BlogShortcodeTemplate.php:65
+#: src/factory-templates/BlogShortcodeTemplate.php:66
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:62
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:63
+#: src/factory-templates/RniShortcodeTemplate.php:69
+#: src/factory-templates/RniShortcodeTemplate.php:70
+#: src/factory-templates/TestimonialShortcodeTemplate.php:66
+#: src/factory-templates/TestimonialShortcodeTemplate.php:67
+msgid "Industry"
+msgstr "Branche"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:73
+#: src/factory-templates/AnalystShortcodeTemplate.php:74
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:65
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:66
+msgid "Service"
+msgstr "Service"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:76
+#: src/factory-templates/AnalystShortcodeTemplate.php:77
+#: src/factory-templates/BlogShortcodeTemplate.php:68
+#: src/factory-templates/BlogShortcodeTemplate.php:69
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:68
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:69
+msgid "Partner"
+msgstr "Partner"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:79
+#: src/factory-templates/AnalystShortcodeTemplate.php:80
+#: src/factory-templates/BlogShortcodeTemplate.php:71
+#: src/factory-templates/BlogShortcodeTemplate.php:72
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:71
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:72
+#: src/factory-templates/PrShortcodeTemplate.php:59
+#: src/factory-templates/PrShortcodeTemplate.php:60
+#: src/factory-templates/RniShortcodeTemplate.php:75
+#: src/factory-templates/RniShortcodeTemplate.php:76
+msgid "Year"
+msgstr "Jahr"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:82
+#: src/factory-templates/BlogShortcodeTemplate.php:74
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:74
+#: src/factory-templates/PrShortcodeTemplate.php:64
+#: src/factory-templates/RniShortcodeTemplate.php:78
+#: src/factory-templates/TestimonialShortcodeTemplate.php:69
+msgid "Clear all"
+msgstr "Alle löschen"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:83
+#: src/factory-templates/BlogShortcodeTemplate.php:75
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:75
+#: src/factory-templates/EventShortcodeTemplate.php:36
+#: src/factory-templates/PrShortcodeTemplate.php:65
+#: src/factory-templates/RniShortcodeTemplate.php:79
+#: src/factory-templates/TestimonialShortcodeTemplate.php:70
+msgid "No results matching your search"
+msgstr "Es wurden keine Suchergebnisse gefunden"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:84
+msgid "Show 10 more reports"
+msgstr "10 weitere Studien & Reports anzeigen"
+
+#: src/factory-templates/AnalystShortcodeTemplate.php:86
+#: src/factory-templates/BlogShortcodeTemplate.php:78
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:78
+#: src/factory-templates/PrShortcodeTemplate.php:68
+#: src/factory-templates/RniShortcodeTemplate.php:82
+msgid "Read more"
+msgstr "Mehr erfahren"
+
+#: src/factory-templates/BlogShortcodeTemplate.php:62
+#: src/factory-templates/BlogShortcodeTemplate.php:63
+#: src/factory-templates/RniShortcodeTemplate.php:66
+#: src/factory-templates/RniShortcodeTemplate.php:67
+msgid "Type"
+msgstr "Typ"
+
+#: src/factory-templates/BlogShortcodeTemplate.php:76
+msgid "Show 10 more blogs"
+msgstr "10 weitere Blog Posts anzeigen"
+
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:28
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:57
+msgid "Client Story library"
+msgstr "Alle Kundenprojekte"
+
+#: src/factory-templates/ClientStoryShortcodeTemplate.php:76
+msgid "Show 10 more stories"
+msgstr "10 weitere Stories anzeigen"
+
+#: src/factory-templates/EventShortcodeTemplate.php:32
+msgid "Upcoming Events"
+msgstr "Bevorstehende Events"
+
+#: src/factory-templates/EventShortcodeTemplate.php:33
+msgid "Past Events"
+msgstr "Vorherige Events"
+
+#: src/factory-templates/EventShortcodeTemplate.php:34
+msgid "Business"
+msgstr "Business"
+
+#: src/factory-templates/EventShortcodeTemplate.php:35
+msgid "Careers"
+msgstr "Karriere"
+
+#: src/factory-templates/EventShortcodeTemplate.php:37
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: src/factory-templates/EventShortcodeTemplate.php:38
+msgid "Add to Calendar"
+msgstr "Zum Kalender hinzufügen"
+
+#: src/factory-templates/EventShortcodeTemplate.php:39
+msgid "Register"
+msgstr "Registrieren"
+
+#: src/factory-templates/LocationShortcodeTemplate.php:36
+msgid "Search for location"
+msgstr "Standort suchen"
+
+#: src/factory-templates/LocationShortcodeTemplate.php:42
+msgid "Type to search location…"
+msgstr "Standort eingeben..."
+
+#: src/factory-templates/LocationShortcodeTemplate.php:43
+msgid "Browse list of locations Capgemini operates in"
+msgstr "Durchsuchen Sie die Liste der Standorte, an denen Capgemini tätig ist"
+
+#: src/factory-templates/LocationShortcodeTemplate.php:44
+msgid "All"
+msgstr "Alle"
+
+#: src/factory-templates/PrShortcodeTemplate.php:51
+msgid "Press Release library"
+msgstr "News-Archiv"
+
+#: src/factory-templates/PrShortcodeTemplate.php:56
+#: src/factory-templates/PrShortcodeTemplate.php:57
+msgid "Category"
+msgstr "Kategorie"
+
+#: src/factory-templates/PrShortcodeTemplate.php:62
+msgid "Date from"
+msgstr "Datum von"
+
+#: src/factory-templates/PrShortcodeTemplate.php:63
+msgid "Date to"
+msgstr "Datum bis"
+
+#: src/factory-templates/PrShortcodeTemplate.php:66
+msgid "Show 10 more news"
+msgstr "10 weitere News anzeigen"
+
+#: src/factory-templates/RniShortcodeTemplate.php:29
+#: src/factory-templates/RniShortcodeTemplate.php:61
+msgid "Research and insights library"
+msgstr "Alle Studien & Reports"
+
+#: src/factory-templates/RniShortcodeTemplate.php:72
+#: src/factory-templates/RniShortcodeTemplate.php:73
+msgid "Topic"
+msgstr "Thema"
+
+#: src/factory-templates/RniShortcodeTemplate.php:80
+msgid "Show 10 more research and insights"
+msgstr "10 weitere Studien & Reports anzeigen"
+
+#: src/factory-templates/RniShortcodeTemplate.php:83
+msgid "File size"
+msgstr "Dateigröße"
+
+#: src/factory-templates/RniShortcodeTemplate.php:84
+msgid "File type"
+msgstr "Dateityp"
+
+#: src/factory-templates/TestimonialShortcodeTemplate.php:51
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: src/factory-templates/TestimonialShortcodeTemplate.php:54
+#: src/factory-templates/TestimonialShortcodeTemplate.php:55
+msgid "Experience"
+msgstr "Berufserfahrung"
+
+#: src/factory-templates/TestimonialShortcodeTemplate.php:57
+#: src/factory-templates/TestimonialShortcodeTemplate.php:58
+msgid "Profession"
+msgstr "Profession"
+
+#: src/factory-templates/TestimonialShortcodeTemplate.php:60
+#: src/factory-templates/TestimonialShortcodeTemplate.php:61
+msgid "Country"
+msgstr "Land"
+
+#: src/factory-templates/TestimonialShortcodeTemplate.php:63
+#: src/factory-templates/TestimonialShortcodeTemplate.php:64
+msgid "Brand"
+msgstr "Marke"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "United States of America"
+msgstr "United States of America"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "China"
+msgstr "China"
+
+msgid "India"
+msgstr "India"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "France"
+msgstr "France"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portuugal"
+
+msgid "Romania"
+msgstr "Romania"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "UK"
+msgstr "UK"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "UAE"
+msgstr "UAE"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "Africa"
+msgstr "Africa"
+
+msgid "Americas"
+msgstr "Americas"
+
+msgid "Asia Pacific"
+msgstr "Asia Pacific"
+
+msgid "Europe"
+msgstr "Europe"
+
+msgid "Middle East"
+msgstr "Middle East"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Morocco"
+msgstr "Morocco"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Chile"
+msgstr "Chile"
