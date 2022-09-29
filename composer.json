@@ -1,0 +1,14 @@
+{
+    "name": "capgemini/cg-archive-shortcode",
+    "description": "CG Archive Shortcode",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "authors": [{
+        "name": "Capgemini",
+        "email": "alfredo-j.prince@capgemini.com"
+    }]
+}
